@@ -15,17 +15,17 @@ Screenshots
 
 ![image of epub reader](screenshots/003.png)
 
-Download Link:
+Download Link
 ---------
 * [Download from Google Play](https://play.google.com/store/apps/details?id=net.uyghurdev.uyghurepubreader.re)
 * [Download from Bilkan Bazar](http://bazar.bilkan.net/App.aspx?id=170)
  
-Used Open Source Projects:
+Used Open Source Projects
 ---------
 * [Arabic Reshaper](https://github.com/AZIZHUSS/Arabic-Reshaper)
 * [Better-Arabic-Reshaper](https://github.com/agawish/Better-Arabic-Reshaper)
 
-Other Links:
+Other Links
 ---------
 * [ePub standarts](http://idpf.org/epub)
  
