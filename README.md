@@ -15,9 +15,8 @@ Screenshots
 
 ![image of epub reader](screenshots/003.png)
 
-![image of epub reader](screenshots/004.png)
-
 Download Link:
+---------
 * [Download from Google Play](https://play.google.com/store/apps/details?id=net.uyghurdev.uyghurepubreader.re)
 * [Download from Bilkan Bazar](http://bazar.bilkan.net/App.aspx?id=170)
  
